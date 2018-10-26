@@ -18,4 +18,4 @@ skypeid pjcalvovargas
 * user javascript to scrool the element into view and then actions to move the mouse and click the selected product from the list (there was a bug in chrome where double clicking was necessary)
 
 # running the tests
-*The project is Java with Maven so that it could be easily runned by the reviewer
+* The project is Java with Maven so that it could be easily runned by the reviewer
