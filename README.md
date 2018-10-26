@@ -15,7 +15,7 @@ skypeid pjcalvovargas
 * now it uses webdriverextensions-maven-plugin to download the drives and so we can remove the chromedriver from the repository
 * it uses a Enum class to define which payment wants to choose (just for fun)
 * it uses PageFactory to construct the objects (it is supposed to be more efficent)
-* user javascript to scrool the element into view and then actions to move the mouse and click the selected product from the list (there was a bug in chrome where double clicking was necessary)
+* there is a specific case, where it uses javascript to scroll the element into view and then actions to move the mouse and click the selected product from the list (there was a bug in chrome where double clicking was necessary)
 
 # running the tests
 * The project is Java with Maven so that it could be easily runned by the reviewer
